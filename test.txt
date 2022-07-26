@@ -1,3 +1,6 @@
 This is my first text file
 The quick brown fox jumps over the lazy dog.
 The quick brown fox jumps over the lazy dog.
+
+This is just for doing to test as git is also beneficial for automation testing. Meanwhile, there is
+requirement of some coding capability.
